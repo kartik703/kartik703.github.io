@@ -56,8 +56,8 @@ Here are some of my top projects with live demos or code:
 - 🔗 **[X-Ray Pneumonia Detection](https://github.com/kartik703/X_ray-detection-using-deep-learning)**  
   CNN model to detect pneumonia from chest X-rays.
 
-- 🔗 **[Digit Recognition](https://github.com/kartik703/digit-recognation)**  
-  Deep learning model for handwritten digit recognition.
+- 🔗 **[Digit Recognition] <a href="https://github.com/kartik703/digit-recognation"> **  
+  Deep learning model for handwritten digit recognition.</a>
 
 - 🔗 **[Weather Forecasting](https://github.com/kartik703/Weather-predict-using-ml)**  
   Predict city weather using regression/time series ML models.
