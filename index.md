@@ -1,56 +1,65 @@
 ---
-layout: home
-title: "Kartik Goswami"
-permalink: /
+layout: default
+title: Kartik Goswami
 ---
 
 # 👋 About Me
 
-Hi, I’m **Kartik Goswami**, a passionate MSc Data Science & AI student at Newcastle University.  
-I specialize in artificial intelligence, machine learning, and building end-to-end intelligent solutions.
+Hi, I’m **Kartik Goswami**, a passionate MSc Data Science & AI student at **Newcastle University**. I specialize in AI, machine learning, and building end-to-end intelligent solutions.
 
 ---
 
-## 📄 My CV
+# 📄 My CV
 
-<object data="/assets/kartikgoswami cv.pdf" type="application/pdf" width="100%" height="600px">
-  <p>Your browser does not support PDFs. <a href="/assets/kartikgoswami cv.pdf">View PDF</a>.</p>
-</object>
+<iframe src="/assets/kartikgoswami cv.pdf" width="100%" height="800px" style="border: 1px solid #ddd;"></iframe>
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-- **Newcastle University** — MSc in Data Science and Artificial Intelligence  
-  *2023 – 2025*
+**MSc in Data Science and Artificial Intelligence**, Newcastle University  
+_2024 – 2025 (Expected)_  
+Modules: Image Informatics, Deep Learning, ML, Data Viz, AI Engineering, Data Management  
+- Built cloud-deployed AI prototypes using GCP, MLflow, Docker.
 
-- **Your Bachelor’s University** — B.Tech in Computer Science  
-  *2019 – 2023*
-
----
-
-## 📜 Certifications
-
-- Google Data Analytics Certificate  
-- DeepLearning.AI TensorFlow Developer  
-- IBM Data Science Professional
+**BTech in Petroleum Engineering**, NIMS University, Jaipur  
+_2016 – 2020_  
+- Graduated with GPA: 8.0  
+- Strong foundation in math, statistics, and engineering problem-solving.
 
 ---
 
-## 💼 Projects
+# 📜 Certifications
 
-- **AI Job Match Assistant**  
-  A GPT-powered tool that matches CVs to job descriptions and explains the fit.
-
-- **Crypto Price Forecasting Dashboard**  
-  A time series prediction app combining LSTM and sentiment data.
-
-- **Food Calorie Estimator**  
-  Computer vision app that detects food from images and estimates calories.
-
-- _More coming soon…_
+- IBM: What is Data Science? _(Nov 2024)_
+- Google: Foundations: Data, Data, Everywhere _(Nov 2024)_
+- IBM: Exploratory Data Analysis for ML _(Nov 2024)_
 
 ---
 
-© 2025 Kartik Goswami • MSc Data Science & AI • Newcastle University  
-📧 goswamikartik429@gmail.com • 🌐 [GitHub](https://github.com/kartik703)
+# 💼 Projects
+
+- **AI Job Match Assistant** — LangChain + GPT + resume/job matching
+- **Crypto Price Forecasting Dashboard** — LSTM + sentiment + Streamlit
+- **Food Calorie Estimator** — Food detection + calorie prediction
+- **AI Crisis Response System** — Agentic AI for disaster simulation
+- **Multimodal Emotion Recognition** — Audio + visual inputs with PyTorch
+- **Medical Fraud Anomaly Detector** — XGBoost on claims
+
+---
+
+# 💪 Skills
+
+**Technical**: Python, SQL, R, TensorFlow, PyTorch, HuggingFace, C#, FastAPI  
+**MLOps**: GCP Vertex AI, Docker, MLflow, CI/CD  
+**Data Tools**: Power BI, Excel, Salesforce  
+**Soft Skills**: Communication, Collaboration, Writing
+
+---
+
+# 📫 Contact
+
+- 📧 goswamikartik420@gmail.com  
+- 🌐 [GitHub](https://github.com/kartik703) | [LinkedIn](https://www.linkedin.com/in/kartikgoswami2000)
+
+---
