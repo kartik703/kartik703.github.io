@@ -45,7 +45,8 @@ _2016 – 2020_
 - **AI Crisis Response System** — Agentic AI for disaster simulation
 - **Multimodal Emotion Recognition** — Audio + visual inputs with PyTorch
 - **Medical Fraud Anomaly Detector** — XGBoost on claims
-- <a href="https://huggingface.co/spaces/kartik703/pdf-summarizer"> **AI Job Match Assistant** </a> — LangChain + GPT + resume/job matching
+- <a href="https://huggingface.co/spaces/kartik703/pdf-summarizer"> 
+**AI Job Match Assistant** </a> — LangChain + GPT + resume/job matching
 
 ---
 
