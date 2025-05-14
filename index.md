@@ -1,54 +1,56 @@
 ---
 layout: home
 title: "Kartik Goswami"
-description: "Portfolio of Kartik Goswami - MSc in Data Science & AI at Newcastle University"
+permalink: /
 ---
 
 # 👋 About Me
 
 Hi, I’m **Kartik Goswami**, a passionate MSc Data Science & AI student at Newcastle University.  
-I specialize in **Artificial Intelligence**, **Machine Learning**, and building **end-to-end intelligent solutions**.
+I specialize in artificial intelligence, machine learning, and building end-to-end intelligent solutions.
 
 ---
 
-# 📄 My CV
+## 📄 My CV
 
-<object data="assets/cv/Kartik_Goswami_CV.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Your browser does not support PDFs. You can <a href="/assets/cv/Kartik_Goswami_CV.pdf">view it here</a>.</p>
+<object data="/assets/kartikgoswami cv.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Your browser does not support PDFs. <a href="/assets/kartikgoswami cv.pdf">View PDF</a>.</p>
 </object>
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-**Newcastle University**  
-*MSc in Data Science and Artificial Intelligence*  
-2023 – 2025  
+- **Newcastle University** — MSc in Data Science and Artificial Intelligence  
+  *2023 – 2025*
 
-**XYZ University**  
-*B.Tech in Computer Science*  
-2019 – 2023  
+- **Your Bachelor’s University** — B.Tech in Computer Science  
+  *2019 – 2023*
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 - Google Data Analytics Certificate  
 - DeepLearning.AI TensorFlow Developer  
-- IBM Data Science Professional  
+- IBM Data Science Professional
 
 ---
 
-# 💼 Projects
+## 💼 Projects
 
-- **AI Job Match Assistant** – Resume-to-job matching using LLM + FAISS.
-- **Crypto Price Forecasting Dashboard** – LSTM + sentiment-driven forecasting.
-- **Food Calorie Estimator** – Food detection and calorie estimation using CV models.
-- *More coming soon…*
+- **AI Job Match Assistant**  
+  A GPT-powered tool that matches CVs to job descriptions and explains the fit.
+
+- **Crypto Price Forecasting Dashboard**  
+  A time series prediction app combining LSTM and sentiment data.
+
+- **Food Calorie Estimator**  
+  Computer vision app that detects food from images and estimates calories.
+
+- _More coming soon…_
 
 ---
 
-<footer>
-<p><strong>Kartik Goswami</strong> · goswamikartik429@gmail.com</p>
-<p>Portfolio of Kartik Goswami — MSc in Data Science & AI @ Newcastle University</p>
-</footer>
+© 2025 Kartik Goswami • MSc Data Science & AI • Newcastle University  
+📧 goswamikartik429@gmail.com • 🌐 [GitHub](https://github.com/kartik703)
