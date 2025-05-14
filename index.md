@@ -1,21 +1,20 @@
 ---
 layout: home
-title: Kartik Goswami
-description: Portfolio of Kartik Goswami - MSc in Data Science & AI at Newcastle University
+title: "Kartik Goswami"
+description: "Portfolio of Kartik Goswami - MSc in Data Science & AI at Newcastle University"
 ---
 
 # 👋 About Me
 
 Hi, I’m **Kartik Goswami**, a passionate MSc Data Science & AI student at Newcastle University.  
-I specialize in AI, machine learning, and building end-to-end intelligent solutions.
+I specialize in **Artificial Intelligence**, **Machine Learning**, and building **end-to-end intelligent solutions**.
 
 ---
 
 # 📄 My CV
 
-<!-- If you have embedded your CV using iframe or PDF viewer -->
 <object data="assets/cv/Kartik_Goswami_CV.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Your browser does not support PDFs. Please <a href="/assets/cv/Kartik_Goswami_CV.pdf">view the file here</a>.</p>
+    <p>Your browser does not support PDFs. You can <a href="/assets/cv/Kartik_Goswami_CV.pdf">view it here</a>.</p>
 </object>
 
 ---
@@ -42,14 +41,14 @@ I specialize in AI, machine learning, and building end-to-end intelligent soluti
 
 # 💼 Projects
 
-- **AI Job Match Assistant** – An intelligent resume-to-job matching system using LLMs and FAISS.  
-- **Crypto Price Forecasting Dashboard** – A dashboard for predicting cryptocurrency trends using LSTM and sentiment analysis.  
-- **Food Calorie Estimator** – A computer vision-based app that detects food items and estimates calories.  
-- *More coming soon...*
+- **AI Job Match Assistant** – Resume-to-job matching using LLM + FAISS.
+- **Crypto Price Forecasting Dashboard** – LSTM + sentiment-driven forecasting.
+- **Food Calorie Estimator** – Food detection and calorie estimation using CV models.
+- *More coming soon…*
 
 ---
 
 <footer>
-<p><strong>Kartik Goswami</strong> | goswamikartik429@gmail.com</p>
-<p>Portfolio of Kartik Goswami - MSc in Data Science & AI at Newcastle University</p>
+<p><strong>Kartik Goswami</strong> · goswamikartik429@gmail.com</p>
+<p>Portfolio of Kartik Goswami — MSc in Data Science & AI @ Newcastle University</p>
 </footer>
