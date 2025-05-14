@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "Welcome to My Portfolio"
+title: "Kartik Goswami"
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 Hi, I’m **Kartik Goswami**, a passionate MSc Data Science & AI student at **Newcastle University**. I specialize in AI, machine learning, and building end-to-end intelligent solutions.
 
