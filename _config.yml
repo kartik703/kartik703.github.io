@@ -1,54 +1,19 @@
 title: "Kartik Goswami"
-description: "Portfolio of Kartik Goswami - Data Science & AI MSc at Newcastle University"
-author: Kartik Goswami
-email: your-email@example.com
-baseurl: "" # Leave blank for GitHub Pages
+email: kartikgoswami703@gmail.com
+description: >-
+  Portfolio of Kartik Goswami - MSc in Data Science & AI at Newcastle University.
+baseurl: "" # For GitHub Pages
 url: "https://kartik703.github.io"
-github_username: kartik703
-
 theme: minima
 
-# Show custom homepage layout instead of blog post index
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: home
+author:
+  name: Kartik Goswami
+  email: goswamikartik429@gmail.com
 
-# Build settings
 markdown: kramdown
-highlighter: rouge
-
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
-# Collections (optional: for organizing content)
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name
-
-# Navigation links (optional: shows in navbar if layout supports it)
-minima:
-  social_links:
-    github: kartik703
-    linkedin: your-linkedin-url
-  # You can also customize nav links if your theme supports it
-  # navigation:
-  #   - title: "About"
-  #     url: "/"
-  #   - title: "Projects"
-  #     url: "/projects/"
-
-# Google Analytics (optional)
-# google_analytics: G-XXXXXXXXXX
-
-# Exclude folders/files from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - node_modules
-  - vendor
-
+# Disable blog layout (optional)
+show_excerpts: false
+paginate: false
