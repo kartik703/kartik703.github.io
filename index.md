@@ -1,65 +1,76 @@
 ---
-layout: default
-title: Kartik Goswami
+layout: page
+title: "Kartik Goswami"
+permalink: /
 ---
 
 # 👋 About Me
 
-Hi, I’m **Kartik Goswami**, a passionate MSc Data Science & AI student at **Newcastle University**. I specialize in AI, machine learning, and building end-to-end intelligent solutions.
+Hi, I’m **Kartik Goswami**, a passionate MSc Data Science & AI student at **Newcastle University**.  
+I specialize in building intelligent systems across NLP, computer vision, and multimodal AI — with a focus on real-world impact.
 
 ---
 
 # 📄 My CV
 
-<iframe src="/assets/kartikgoswami cv.pdf" width="100%" height="800px" style="border: 1px solid #ddd;"></iframe>
+<iframe src="{{ '/assets/kartikgoswami cv.pdf' | relative_url }}" width="100%" height="800px" style="border: none;"></iframe>
 
 ---
 
 # 🎓 Education
 
-**MSc in Data Science and Artificial Intelligence**, Newcastle University  
-_2024 – 2025 (Expected)_  
-Modules: Image Informatics, Deep Learning, ML, Data Viz, AI Engineering, Data Management  
-- Built cloud-deployed AI prototypes using GCP, MLflow, Docker.
+**Newcastle University**  
+MSc in Data Science and Artificial Intelligence  
+_2023 – 2025_
 
-**BTech in Petroleum Engineering**, NIMS University, Jaipur  
-_2016 – 2020_  
-- Graduated with GPA: 8.0  
-- Strong foundation in math, statistics, and engineering problem-solving.
+**Your Bachelor’s University**  
+B.Tech in Computer Science  
+_2019 – 2023_
 
 ---
 
 # 📜 Certifications
 
-- IBM: What is Data Science? _(Nov 2024)_
-- Google: Foundations: Data, Data, Everywhere _(Nov 2024)_
-- IBM: Exploratory Data Analysis for ML _(Nov 2024)_
+- Google Data Analytics Certificate  
+- DeepLearning.AI TensorFlow Developer  
+- IBM Data Science Professional
 
 ---
 
 # 💼 Projects
 
-- **AI Job Match Assistant** — LangChain + GPT + resume/job matching
-- **Crypto Price Forecasting Dashboard** — LSTM + sentiment + Streamlit
-- **Food Calorie Estimator** — Food detection + calorie prediction
-- **AI Crisis Response System** — Agentic AI for disaster simulation
-- **Multimodal Emotion Recognition** — Audio + visual inputs with PyTorch
-- **Medical Fraud Anomaly Detector** — XGBoost on claims
+Here are some of my top projects with live demos or code:
+
+- 🔗 **[AI PDF Summarizer](https://huggingface.co/spaces/kartik703/pdf-summarizer)**  
+  Upload a PDF and get an AI summary + key concepts using T5 + KeyBERT.
+
+- 🔗 **[Food Calorie Estimator](https://huggingface.co/spaces/kartik703/food-calorie-estimator)**  
+  Estimate calories from food images using PyTorch + EfficientNet.
+
+- 🔗 **[CryptoBot SmartTrader](https://github.com/kartik703/CryptoBot-SmartTrader)**  
+  Automated crypto trading bot using SMA + RSI on Binance API.
+
+- 🔗 **[Facial Mood Monitor](https://huggingface.co/spaces/kartik703/facial-mood-monitor)**  
+  Detect mood from webcam/video using CNN on FER2013 dataset.
+
+- 🔗 **[X-Ray Pneumonia Detection](https://github.com/kartik703/X_ray-detection-using-deep-learning)**  
+  CNN model to detect pneumonia from chest X-rays.
+
+- 🔗 **[Digit Recognition](https://github.com/kartik703/digit-recognation)**  
+  Deep learning model for handwritten digit recognition.
+
+- 🔗 **[Weather Forecasting](https://github.com/kartik703/Weather-predict-using-ml)**  
+  Predict city weather using regression/time series ML models.
+
+- 🔗 **[Diabetes Prediction](https://github.com/kartik703/Diabetes-prediction)**  
+  Machine learning model to predict diabetes based on health features.
+
+- 🔗 **[Insurance Data Analysis](https://github.com/kartik703/Gradient_descent-on-insurence-dataset)**  
+  Gradient Descent optimization for insurance premium modeling.
+
+- 🔗 **[CNN vs ANN Comparison](https://github.com/kartik703/neural-network-CNN-RNN)**  
+  Comparative analysis of neural networks on classification tasks.
 
 ---
 
-# 💪 Skills
-
-**Technical**: Python, SQL, R, TensorFlow, PyTorch, HuggingFace, C#, FastAPI  
-**MLOps**: GCP Vertex AI, Docker, MLflow, CI/CD  
-**Data Tools**: Power BI, Excel, Salesforce  
-**Soft Skills**: Communication, Collaboration, Writing
-
----
-
-# 📫 Contact
-
-- 📧 goswamikartik420@gmail.com  
-- 🌐 [GitHub](https://github.com/kartik703) | [LinkedIn](https://www.linkedin.com/in/kartikgoswami2000)
-
----
+> 🧠 See more on [GitHub](https://github.com/kartik703) or [Hugging Face](https://huggingface.co/kartik703)
